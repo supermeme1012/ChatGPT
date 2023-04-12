@@ -45,7 +45,7 @@ $chat = $open_ai->chat([
 
 #### Clone this repository to your local machine
 ```sh
-git clone https://github.com/orhanerday/ChatGPT.git
+git clone https://github.com/supermeme1012/ChatGPT.git
 ```
 #### Navigate to the project directory
 ```sh
